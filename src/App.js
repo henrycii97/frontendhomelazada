@@ -1,23 +1,36 @@
-import logo from './logo.svg';
 import './App.css';
+import Ads from './Component/Ads';
+import Header from './Component/Header';
+import SlideBanner from './Component/SlideBanner';
+import Flashdeal from './Component/Flashdeal';
+import PopularSearch from './Component/PopularSearch';
+import CollectionLaz from './Component/CollectionLaz';
+import Lazmall from './Component/Lazmall';
+import CategoryList from './Component/CategoryList';
+import Exclusivelyforyou from './Component/Exclusivelyforyou';
+import PartnersContacts from './Component/PartnersContacts';
+import CertificationServicePayment from './Component/CertificationServicePayment';
+import BannerIntroduce from './Component/BannerIntroduce';
+import LazadaSoutheastAsia from './Component/LazadaSoutheastAsia';
+import ScrollLaz from './Component/ScrollLaz';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <Ads/>
+     <Header/>
+     <SlideBanner/>
+     <Flashdeal/>
+     <PopularSearch/>
+     <CollectionLaz/>
+     <Lazmall/>
+     <CategoryList/>
+     <Exclusivelyforyou/>
+     <PartnersContacts/>
+     <CertificationServicePayment/>
+     <BannerIntroduce/>
+     <LazadaSoutheastAsia/>
+     <ScrollLaz/>
     </div>
   );
 }
