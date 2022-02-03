@@ -153,7 +153,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -406,7 +406,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -659,7 +659,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -912,7 +912,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -1165,7 +1165,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -1418,7 +1418,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -1671,7 +1671,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -1924,7 +1924,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -2177,7 +2177,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -2430,7 +2430,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -2683,7 +2683,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -2936,7 +2936,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -3189,7 +3189,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -3442,7 +3442,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -3695,7 +3695,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -3948,7 +3948,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -4201,7 +4201,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -4454,7 +4454,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -4707,7 +4707,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -4960,7 +4960,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -5213,7 +5213,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -5466,7 +5466,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -5719,7 +5719,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -5972,7 +5972,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -6225,7 +6225,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -6478,7 +6478,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -6731,7 +6731,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -6984,7 +6984,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -7237,7 +7237,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -7490,7 +7490,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -7743,7 +7743,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
@@ -7996,7 +7996,7 @@ export default class Exclusivelyforyou extends Component {
                       <span className="icon-efy">
                         <img src="images/logoxahang.png" alt="" />
                       </span>
-                      <span className="title-efy">TRỢ GIÁ ĐẶC BIỆT] 1kg cà phê rang mộc DUC ANH COFFEE 100% Robusta Đậm vị hậu ngọt Dạng bột dùng pha phin Cam kết nguyên chất Rang xay khi đặt hàng - 2 gói zipper 500g ca phe ban chay - cafe pha phin</span>
+                      <span className="title-efy"></span>
                     </div>
                     <div className="price-efy">
                       <span className="price">149.000</span>
